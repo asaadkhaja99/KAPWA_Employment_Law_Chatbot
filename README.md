@@ -1,5 +1,5 @@
 # KAPWA_Employment_Law_Chatbot
-A ChatBot capable of providing legal assistance to users about employment law in the Philippines. This was created as to fulfill the requirements of a task in the Cambridge X Law LLM Hackathon
+A ChatBot capable of providing legal assistance to users about employment law in the Philippines. This was created to fulfil a task's requirements in the Cambridge X Law LLM Hackathon. Please note that anything this bot produces does NOT constitute legal advice.
 
 # Demo: https://chatgpt.com/g/g-BVfoLOPfB-kapwa 
 
