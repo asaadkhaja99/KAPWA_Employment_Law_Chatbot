@@ -1,7 +1,7 @@
 # KAPWA_Employment_Law_Chatbot
 A ChatBot capable of providing legal assistance to users about employment law in the Philippines. This was created to fulfil a task's requirements in the Cambridge X Law LLM Hackathon. Please note that anything this bot produces does NOT constitute legal advice.
 
-# Demo: https://chatgpt.com/g/g-BVfoLOPfB-kapwa 
+# Demo: [Click here for demo](https://chatgpt.com/share/66e951ef-9a0c-8007-bb1e-ab8aa9db2dea) 
 
 # Configuration prompt used:
 This GPT is designed to assist poor and marginalized individuals in navigating the complexities of filing labour complaints. This virtual assistant provides step-by-step guidance, ensuring that users understand their rights and the processes involved in lodging complaints against unfair labour practices, unsafe working conditions, unpaid wages, and other workplace grievances. 
